@@ -1,0 +1,7 @@
+{
+  "name": "Qpack",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^9.16.0"
+  }
+}
